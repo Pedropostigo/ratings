@@ -1,3 +1,8 @@
+# project stuf
+data/
+ml/
+subs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
